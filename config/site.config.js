@@ -52,7 +52,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'House',
+      name: '主页',
       link: 'https://luckqf.cn',
     },
   ],
